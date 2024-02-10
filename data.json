@@ -1,0 +1,25 @@
+[
+  {
+    "home": {"name": "Manchester United", "scorer": true, "goals": 3},
+    "away": {"name": "Manchester City", "scorer": false, "goals": 1},
+    "year": "2011",
+    "clue": "An iconic derby goal",
+    "arrows": [
+      {
+        "startX": "90",
+        "startY": "20",
+        "endX": "40",
+        "endY": "11",
+        "action": "pass"
+      },
+      {
+        "startX": "40",
+        "startY": "11",
+        "endX": "60",
+        "endY": "0",
+        "action": "shot"
+      }
+    ],
+    "scorer": ["Wayne Rooney", "Rooney", "Rooneh"]
+  }
+]
