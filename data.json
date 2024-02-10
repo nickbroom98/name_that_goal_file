@@ -21,5 +21,35 @@
       }
     ],
     "scorer": ["Wayne Rooney", "Rooney", "Rooneh"]
+  },
+  {
+    "home": {"name": "Chelsea", "scorer": false, "goals": 1},
+    "away": {"name": "Stoke City", "scorer": true, "goals": 1},
+    "year": "2015",
+    "clue": "Scored by a scotsman with a wand of a left foot.",
+    "arrows": [
+      {
+        "startX": "90",
+        "startY": "80",
+        "endX": "45",
+        "endY": "55",
+        "action": "pass"
+      },
+      {
+        "startX": "45",
+        "startY": "55",
+        "endX": "50",
+        "endY": "60",
+        "action": "pass"
+      },
+      {
+        "startX": "50",
+        "startY": "60",
+        "endX": "55",
+        "endY": "0",
+        "action": "shot"
+      }
+    ],
+    "scorer": ["Adam", "Charlie Adam"]
   }
 ]
