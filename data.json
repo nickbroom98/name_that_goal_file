@@ -89,7 +89,7 @@
         "action": "shot"
       }
     ],
-    "scorer": ["Kanu", "Nwankwo Kanu"],
+    "scorer": ["Kanu", "Nwankwo Kanu"]
   },
   {
     "home": {"name": "Arsenal", "scorer": false, "goals": 4},
@@ -117,7 +117,7 @@
         "endX": "58",
         "endY": "0",
         "action": "shot"
-      },
+      }
     ],
     "scorer": ["Bentley", "David Bentley"]
   }
