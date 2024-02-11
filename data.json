@@ -51,5 +51,74 @@
       }
     ],
     "scorer": ["Adam", "Charlie Adam"]
+  },
+  {
+    "home": {"name": "Liverpool", "scorer": false, "goals": 1},
+    "away": {"name": "Everton", "scorer": true, "goals": 1},
+    "year": "2014",
+    "clue": "An injury time stunner",
+    "arrows": [
+      {
+        "startX": "65",
+        "startY": "70",
+        "endX": "42",
+        "endY": "90",
+        "action": "shot"
+      }
+    ],
+    "scorer": ["Phil Jagielka", "Jagielka", "Jags"]
+  },
+  {
+  "home": {"name": "Chelsea", "scorer": false, "goals": 2},
+    "away": {"name": "Arsenal", "scorer": true, "goals": 3},
+    "year": "1999",
+    "clue": "The final goal of a thrilling hattrick.",
+    "arrows": [
+      {
+        "startX": "86",
+        "startY": "86",
+        "endX": "80",
+        "endY": "89",
+        "action": "dribble"
+      },
+      {
+        "startX": "80",
+        "startY": "89",
+        "endX": "50",
+        "endY": "91",
+        "action": "shot"
+      }
+    ],
+    "scorer": ["Kanu", "Nwankwo Kanu"],
+  },
+  {
+    "home": {"name": "Arsenal", "scorer": false, "goals": 4},
+    "away": {"name": "Tottenham", "scorer": true, "goals": 4},
+    "year": "2008",
+    "clue": "A stunning volley to open the scoring in a classic North London Derby",
+    "arrows": [
+      {
+        "startX": "35",
+        "startY": "35",
+        "endX": "55",
+        "endY": "25",
+        "action": "pass"
+      },
+      {
+        "startX": "55",
+        "startY": "25",
+        "endX": "52",
+        "endY": "30",
+        "action": "pass"
+      },
+      {
+        "startX": "52",
+        "startY": "30",
+        "endX": "58",
+        "endY": "0",
+        "action": "shot"
+      },
+    ],
+    "scorer": ["Bentley", "David Bentley"]
   }
 ]
