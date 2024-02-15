@@ -120,5 +120,75 @@
       }
     ],
     "scorer": ["Bentley", "David Bentley"]
+  },
+  {
+    "home": {"name": "West Ham", "scorer": true, "goals": 3},
+    "away": {"name": "Liverpool", "scorer": false, "goals": 3},
+    "year": "2006",
+    "clue": "A scrappy start to a memorable FA cup final",
+    "arrows": [
+      {
+        "startX": "90",
+        "startY": "12",
+        "endX": "58",
+        "endY": "8",
+        "action": "pass"
+      },
+      {
+        "startX": "58",
+        "startY": "8",
+        "endX": "58",
+        "endY": "0",
+        "action": "shot"
+      },
+    ],
+    "scorer": ["Jamie Carragher", "Carragher"]
+  },
+  {
+  "home": {"name": "Portsmouth", "scorer": true, "goals": 2},
+    "away": {"name": "Everton", "scorer": false, "goals": 0},
+    "year": "2006",
+    "clue": "This boy loved a long range volley",
+    "arrows": [
+      {
+        "startX": "43",
+        "startY": "36",
+        "endX": "42",
+        "endY": "0",
+        "action": "shot"
+      },
+    ],
+  },
+  {
+    "home": {"name": "Chelsea", "scorer": false, "goals": 4},
+    "away": {"name": "Liverppol", "scorer": true, "goals": 4},
+    "year": "2009",
+    "clue": "A sly little free kick",
+    "arrows": [
+      {
+        "startX": "85",
+        "startY": "25",
+        "endX": "58",
+        "endY": "0",
+        "action": "shot"
+      },
+    ],
+    "scorer": ["Aurélio", "Fábio Aurélio", "Aurelio"]
+  },
+     {
+    "home": {"name": "Chelsea", "scorer": true, "goals": 4},
+    "away": {"name": "Liverppol", "scorer": false, "goals": 4},
+    "year": "2009",
+    "clue": "Absolutely twatted in from a free kick",
+    "arrows": [
+      {
+        "startX": "60",
+        "startY": "25",
+        "endX": "58",
+        "endY": "0",
+        "action": "shot"
+      },
+    ],
+    "scorer": ["Alex"]
   }
 ]
