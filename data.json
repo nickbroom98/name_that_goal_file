@@ -140,7 +140,7 @@
         "endX": "58",
         "endY": "0",
         "action": "shot"
-      },
+      }
     ],
     "scorer": ["Jamie Carragher", "Carragher"]
   },
@@ -156,8 +156,8 @@
         "endX": "42",
         "endY": "0",
         "action": "shot"
-      },
-    ],
+      }
+    ]
   },
   {
     "home": {"name": "Chelsea", "scorer": false, "goals": 4},
@@ -171,11 +171,11 @@
         "endX": "58",
         "endY": "0",
         "action": "shot"
-      },
+      }
     ],
     "scorer": ["Aurélio", "Fábio Aurélio", "Aurelio"]
   },
-     {
+   {
     "home": {"name": "Chelsea", "scorer": true, "goals": 4},
     "away": {"name": "Liverppol", "scorer": false, "goals": 4},
     "year": "2009",
@@ -187,7 +187,7 @@
         "endX": "58",
         "endY": "0",
         "action": "shot"
-      },
+      }
     ],
     "scorer": ["Alex"]
   }
