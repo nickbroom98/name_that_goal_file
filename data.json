@@ -157,11 +157,12 @@
         "endY": "0",
         "action": "shot"
       }
-    ]
+    ],
+    "scorer": ["Taylor"]
   },
   {
     "home": {"name": "Chelsea", "scorer": false, "goals": 4},
-    "away": {"name": "Liverppol", "scorer": true, "goals": 4},
+    "away": {"name": "Liverpool", "scorer": true, "goals": 4},
     "year": "2009",
     "clue": "A sly little free kick",
     "arrows": [
@@ -176,9 +177,9 @@
     "scorer": ["Aurélio", "Fábio Aurélio", "Aurelio"]
   },
    {
-    "home": {"name": "Chelsea", "scorer": true, "goals": 4},
-    "away": {"name": "Liverppol", "scorer": false, "goals": 4},
-    "year": "2009",
+    "home": {"name": "Chelsea", "scorer": true, "goals": 2},
+    "away": {"name": "Arsenal", "scorer": false, "goals": 0},
+    "year": "2010",
     "clue": "Absolutely twatted in from a free kick",
     "arrows": [
       {
@@ -190,5 +191,144 @@
       }
     ],
     "scorer": ["Alex"]
+  },
+   {
+    "home": {"name": "Manchester United", "scorer": true, "goals": 3},
+    "away": {"name": "Aston Villa", "scorer": false, "goals": 2},
+    "year": "2009",
+    "clue": "A dream debut goal",
+    "arrows": [
+      {
+        "startX": "70",
+        "startY": "25",
+        "endX": "60",
+        "endY": "0",
+        "action": "pass"
+      },
+      {
+        "startX": "60",
+        "startY": "25",
+        "endX": "58",
+        "endY": "0",
+        "action": "shot"
+      }
+    ],
+    "scorer": ["Macheda", "Federico Macheda"]
+  },
+  {
+    "home": {"name": "Tottenham", "scorer": false, "goals": 1},
+    "away": {"name": "West Ham", "scorer": true, "goals": 1},
+    "year": "2018",
+    "clue": "An absolute thundebolt from an unlikely source",
+    "arrows": [
+      {
+        "startX": "75",
+        "startY": "65",
+        "endX": "70",
+        "endY": "70",
+        "action": "dribble"
+      },
+      {
+        "startX": "70",
+        "startY": "70",
+        "endX": "60",
+        "endY": "90",
+        "action": "shot"
+      }
+    ],
+    "scorer": ["Obiang"]
+  },
+  {
+    "home": {"name": "Real Madrid", "scorer": true, "goals": 2},
+    "away": {"name": "Barcelona", "scorer": false, "goals": 1},
+    "year": "2014",
+    "clue": "An iconic goal in a memorable debut season.",
+    "arrows": [
+      {
+        "startX": "93",
+        "startY": "45",
+        "endX": "65",
+        "endY": "86",
+        "action": "dribble"
+      },
+      {
+        "startX": "65",
+        "startY": "86",
+        "endX": "55",
+        "endY": "90",
+        "action": "shot"
+      }
+    ],
+    "scorer": ["Bale", "Gareth Bale"]
+  },
+  {
+    "home": {"name": "Inter Milan", "scorer": true, "goals": 2},
+    "away": {"name": "Schalke", "scorer": false, "goals": 5},
+    "year": "2011",
+    "clue": "A stunnig volley after a flying header clearence from a young Manuel Neuer.",
+    "arrows": [
+      {
+        "startX": "60",
+        "startY": "50",
+        "endX": "55",
+        "endY": "90",
+        "action": "shot"
+      }
+    ],
+    "scorer": ["Stankovic", "Dejan Stankovic"]
+  },
+  {
+    "home": {"name": "Norwich City", "scorer": true, "goals": 3},
+    "away": {"name": "Manchester City", "scorer": false, "goals": 2},
+    "year": "2019",
+    "clue": "A lovely flowing move to put the cat amongst the pigeons.",
+    "arrows": [
+      {
+        "startX": "40",
+        "startY": "45",
+        "endX": "40",
+        "endY": "65",
+        "action": "pass"
+      },
+      {
+        "startX": "40",
+        "startY": "65",
+        "endX": "38",
+        "endY": "80",
+        "action": "dribble"
+      },
+      {
+        "startX": "38",
+        "startY": "80",
+        "endX": "60",
+        "endY": "85",
+        "action": "pass"
+      },
+      {
+        "startX": "60",
+        "startY": "85",
+        "endX": "57",
+        "endY": "90",
+        "action": "shot"
+      }
+    ],
+    "scorer": ["Cantwell"]
+  },
+  {
+    "home": {"name": "Stoke City", "scorer": false, "goals": 2},
+    "away": {"name": "Wigan", "scorer": true, "goals": 2},
+    "year": "2009",
+    "clue": "A unexpected free kick strike.",
+    "arrows": [
+      {
+        "startX": "80",
+        "startY": "44",
+        "endX": "43",
+        "endY": "90",
+        "action": "shot"
+      }
+    ],
+    "scorer": ["Figueroa"]
   }
+  
 ]
