@@ -329,6 +329,174 @@
       }
     ],
     "scorer": ["Figueroa"]
+  },
+  {
+    "home": {"name": "Manchester City", "scorer": true, "goals": 1},
+    "away": {"name": "Chelsea", "scorer": false, "goals": 1},
+    "year": "2014",
+    "clue": "Scored by one of the premier league's most prolific goal scorers",
+    "arrows": [
+      {
+        "startX": "60",
+        "startY": "60",
+        "endX": "65",
+        "endY": "84",
+        "action": "pass"
+      },
+      {
+        "startX": "65",
+        "startY": "84",
+        "endX": "57",
+        "endY": "81",
+        "action": "pass"
+      },
+      {
+        "startX": "57",
+        "startY": "81",
+        "endX": "59",
+        "endY": "90",
+        "action": "shot"
+      }
+    ],
+    "scorer": ["Lampard"]
+  },
+  {
+    "home": {"name": "Leicester City", "scorer": true, "goals": 5},
+    "away": {"name": "Manchester United", "scorer": false, "goals": 3},
+    "year": "2014",
+    "clue": "A champions league winner not known for his time in the East Midlands",
+    "arrows": [
+      {
+        "startX": "60",
+        "startY": "65",
+        "endX": "43",
+        "endY": "80",
+        "action": "pass"
+      },
+      {
+        "startX": "43",
+        "startY": "80",
+        "endX": "45",
+        "endY": "80",
+        "action": "pass"
+      },
+      {
+        "startX": "45",
+        "startY": "80",
+        "endX": "43",
+        "endY": "90",
+        "action": "shot"
+      }
+    ],
+    "scorer": ["Cambiasso"]
+  },
+  {
+    "home": {"name": "Chelsea", "scorer": false, "goals": 1},
+    "away": {"name": "Barcelona", "scorer": true, "goals": 1},
+    "year": "2009",
+    "clue": "A composed strike to round off a very controversial game.",
+    "arrows": [
+      {
+        "startX": "65",
+        "startY": "83",
+        "endX": "43",
+        "endY": "75",
+        "action": "pass"
+      },
+      {
+        "startX": "43",
+        "startY": "75",
+        "endX": "43",
+        "endY": "90",
+        "action": "shot"
+      }
+    ],
+    "scorer": ["Iniesta"]
+  },
+  {
+    "home": {"name": "France", "scorer": false, "goals": 0},
+    "away": {"name": "Portugal", "scorer": true, "goals": 1},
+    "year": "2016",
+    "clue": "A speculative effort to silence le bleu.",
+    "arrows": [
+      {
+        "startX": "75",
+        "startY": "55",
+        "endX": "70",
+        "endY": "65",
+        "action": "pass"
+      },
+      {
+        "startX": "70",
+        "startY": "65",
+        "endX": "50",
+        "endY": "70",
+        "action": "dribble"
+      },
+      {
+        "startX": "50",
+        "startY": "70",
+        "endX": "57",
+        "endY": "90",
+        "action": "shot"
+      }
+    ],
+    "scorer": ["Eder"]
+  },
+  {
+    "home": {"name": "Tottenham", "scorer": true, "goals": 2},
+    "away": {"name": "Arsenal", "scorer": false, "goals": 1},
+    "year": "2010",
+    "clue": "A memorable debut goal.",
+    "arrows": [
+      {
+        "startX": "30",
+        "startY": "25",
+        "endX": "50",
+        "endY": "0",
+        "action": "shot"
+      }
+    ],
+    "scorer": ["Rose"]
+  },
+  {
+    "home": {"name": "AC Milan", "scorer": true, "goals": 3},
+    "away": {"name": "Liverpool", "scorer": false, "goals": 3},
+    "year": "2010",
+    "clue": "After this point, the tables started turning.",
+    "arrows": [
+      {
+        "startX": "75",
+        "startY": "55",
+        "endX": "40",
+        "endY": "20",
+        "action": "pass"
+      },
+      {
+        "startX": "40",
+        "startY": "20",
+        "endX": "50",
+        "endY": "0",
+        "action": "shot"
+      }
+    ],
+    "scorer": ["Crespo"]
+  },
+  {
+    "home": {"name": "Newcastle", "scorer": true, "goals": 4},
+    "away": {"name": "Arsenal", "scorer": false, "goals": 4},
+    "year": "2010",
+    "clue": "Completed one of the most dramatic comebacks in the game",
+    "arrows": [
+      {
+        "startX": "53",
+        "startY": "70",
+        "endX": "60",
+        "endY": "90",
+        "action": "shot"
+      }
+    ],
+    "scorer": ["Tiote"]
   }
   
 ]
